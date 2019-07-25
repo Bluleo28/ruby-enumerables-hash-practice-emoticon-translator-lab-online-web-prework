@@ -6,3 +6,5 @@ end
 end
 #load_library return value the keys inside the 'get_meaning' hash are the Japanese emoticons 
 end
+#load_library return the emoticon keys inside the 'get_meaning' hash point to their meanings 
+end 
