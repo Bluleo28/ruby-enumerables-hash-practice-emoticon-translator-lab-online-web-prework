@@ -4,3 +4,5 @@ end
 end
 #load_library return value has two keys, 'get_meaning' and 'get_emoticon'
 end
+#load_library return value the keys inside the 'get_meaning' hash are the Japanese emoticons 
+end
