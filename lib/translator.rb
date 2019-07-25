@@ -1,5 +1,4 @@
-{ load_library("")
-  # code goes here
+{ load_library("./lib/emoticons.yml") } .to_not raise_error
 end
 
 def get_japanese_emoticon
