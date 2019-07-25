@@ -30,4 +30,5 @@ end
 end
 #get_english_meaning return the English meaning of the Japanese emoticon (^ v ^)
 end
-#get_english_meaning returns the English meaning of the Japanese emoticon ( )
+#get_english_meaning returns the English meaning of the Japanese emoticon ( ー )
+end
