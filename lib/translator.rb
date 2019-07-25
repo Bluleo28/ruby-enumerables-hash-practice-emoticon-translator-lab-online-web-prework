@@ -12,3 +12,5 @@ end
 end
 #load_library return value the emoticons keys inside the 'get_emoticon' hash point their Japanese equivalents
 end
+expect ( get_japanese_emoticon("./lib/emoticons.yml", ":)")} .to_not raise_error
+end
