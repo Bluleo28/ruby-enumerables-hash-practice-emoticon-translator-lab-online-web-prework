@@ -26,3 +26,5 @@ end
 end 
 expect { get_english_meaning("./lib/emoticons.yml", "(T ▽Ｔ)") } .to_not raise_error
 end
+#get_english_meaning calls on #load_library and gives it the argument of the file path
+end
