@@ -24,3 +24,4 @@ end
 end 
 #get_japanese_emoticon returns an apology message if the argument is not a known emoticon
 end 
+expect { get_english_meaning("./lib/emoticons.yml", "(T ")
