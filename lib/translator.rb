@@ -14,3 +14,5 @@ end
 end
 expect ( get_japanese_emoticon("./lib/emoticons.yml", ":)")} .to_not raise_error
 end
+#get_japanese_emoticon calls on #load_library and gives it the argument of the file path 
+end
