@@ -20,3 +20,5 @@ end
 end
 #get_japanese_emoticon returns the Japanese equivalent of an English happy 
 end 
+#get_japanese_emoticon returns the Japanese equivalent of the English sad 
+end 
