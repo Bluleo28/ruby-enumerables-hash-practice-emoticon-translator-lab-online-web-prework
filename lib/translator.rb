@@ -32,3 +32,4 @@ end
 end
 #get_english_meaning returns the English meaning of the Japanese emoticon ( ー )
 end
+#get_english_meaning returns the English meaning of the get_japanese_emoticon( T )
