@@ -34,3 +34,5 @@ end
 end
 #get_english_meaning returns the English meaning of the get_japanese_emoticon( T ▽Ｔ)
 end
+#get_japanese_emoticon returns an apology if the argument is not a known emoticon
+end 
