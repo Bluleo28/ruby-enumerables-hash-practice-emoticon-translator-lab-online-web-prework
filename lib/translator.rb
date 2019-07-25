@@ -18,3 +18,5 @@ end
 end
 #get_japanese_emoticon returns the Japanese equivalent of and English grinning
 end
+#get_japanese_emoticon returns the Japanese equivalent of an English happy 
+end 
