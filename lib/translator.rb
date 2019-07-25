@@ -28,3 +28,5 @@ expect { get_english_meaning("./lib/emoticons.yml", "(T ▽Ｔ)") } .to_not rais
 end
 #get_english_meaning calls on #load_library and gives it the argument of the file path
 end
+#get_english_meaning return the English meaning of the Japanese emoticon (^ v ^)
+end
